@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.class
+*.name
+.idea/compiler.xml
+.idea/libraries/Gradle__antlr_2_7_6.xml
+gradle/wrapper/gradle-wrapper.jar
+build/classes/main/com/bohui/sip/killSql.txt
+*.iml
+gradle/wrapper/gradle-wrapper.properties
+*.xml
